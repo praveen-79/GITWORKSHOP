@@ -1,2 +1,2 @@
 print("HELLO WORLD")
-print("hwy")
+print("hwllo")
